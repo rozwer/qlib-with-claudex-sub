@@ -7,6 +7,20 @@
 
 ---
 
+## What's Different in this Fork (with-Claudex)
+
+This fork has **no code changes** from upstream Microsoft Qlib. The `with-Claudex` suffix indicates it is configured for use with the Claude Code orchestration layer in [RD-Agent-with-Claudex](https://github.com/rozwer/RD-Agent-with-Claudex).
+
+Qlib itself has zero OpenAI dependencies — it provides the quantitative investment infrastructure (data, models, backtesting) that the R&D loop uses as a tool.
+
+For the full R&D loop setup, see the [parent repository README](https://github.com/rozwer/Qlib-with-Claudex).
+
+---
+
+*Below is the original Microsoft Qlib README for reference.*
+
+---
+
 [![Python Versions](https://img.shields.io/pypi/pyversions/pyqlib.svg?logo=python&logoColor=white)](https://pypi.org/project/pyqlib/#files)
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey)](https://pypi.org/project/pyqlib/#files)
 [![PypI Versions](https://img.shields.io/pypi/v/pyqlib)](https://pypi.org/project/pyqlib/#history)
