@@ -1,3 +1,13 @@
+> **Important**: This repository is a subproject of [Qlib-with-Claudex (parent)](https://github.com/rozwer/Qlib-with-Claudex).
+> Clone the **parent repository first** to get Claude Code skills, subagents, and settings required for the R&D loop.
+>
+> ```bash
+> git clone git@github.com:rozwer/Qlib-with-Claudex.git Qlib && cd Qlib
+> git clone git@github.com:rozwer/qlib-with-claudex-sub.git Qlib-with-Claudex
+> ```
+
+---
+
 [![Python Versions](https://img.shields.io/pypi/pyversions/pyqlib.svg?logo=python&logoColor=white)](https://pypi.org/project/pyqlib/#files)
 [![Platform](https://img.shields.io/badge/platform-linux%20%7C%20windows%20%7C%20macos-lightgrey)](https://pypi.org/project/pyqlib/#files)
 [![PypI Versions](https://img.shields.io/pypi/v/pyqlib)](https://pypi.org/project/pyqlib/#history)
